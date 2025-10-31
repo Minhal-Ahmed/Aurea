@@ -1,4 +1,4 @@
-# Noor & Co. - E-commerce Website
+# Aurea E-commerce Website
 
 A modern, elegant e-commerce platform for a Pakistani lifestyle and home décor brand specializing in scented candles, handmade decorative wall frames, aroma diffusers, and unique home accessories.
 
@@ -36,7 +36,7 @@ Before setting up the project, make sure you have:
 
 \`\`\`bash
 git clone <your-repository-url>
-cd noor-co-ecommerce
+cd aurea
 \`\`\`
 
 ### 2. Install Dependencies
